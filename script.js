@@ -8,7 +8,7 @@
 /*
  * Prompt 2:
  *
- * Declare 3 variables using each of let, const, and var, then console.log each of them
+ * Create 3 variables using let and const, then console.log each of them, using a string literal (` ${} `} in the log
  */
 
 /*
